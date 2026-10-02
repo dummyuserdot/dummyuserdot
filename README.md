@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://github.com/DotZohaib">
+<a href="https://zohaib.is-a.dev">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0e75b6?style=for-the-badge&labelColor=0f172a" />
 </a>
 <a href="https://github.com/DotZohaib">
@@ -33,9 +33,6 @@
 
 I'm **Zohaib Ali Dayo**, a passionate Information Technology professional specializing in **Generative AI, Data Science, and Full-Stack Development**. With expertise in building AI agents, predictive models, and scalable web applications, I drive innovation and deliver impactful solutions where **code meets creativity**.
 
-
-
-
 | Area | Focus |
 |---|---|
 | 💻 **Full-Stack Development** | Scalable MERN stack applications |
@@ -44,7 +41,6 @@ I'm **Zohaib Ali Dayo**, a passionate Information Technology professional specia
 | ⚛️ **Frontend** | Responsive, modern user experiences with React |
 | 🚀 **Product Building** | Turning ideas into complete, impactful projects |
 
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs&perline=5" alt="Languages"/>
@@ -52,7 +48,6 @@ I'm **Zohaib Ali Dayo**, a passionate Information Technology professional specia
 <img src="https://skillicons.dev/icons?i=nextjs,express,mongodb,tailwind&perline=4" alt="Frameworks"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,firebase&perline=5" alt="Tools"/>
-
 
 </div>
 
@@ -74,13 +69,11 @@ I'm **Zohaib Ali Dayo**, a passionate Information Technology professional specia
   🖥️ Windows HWID Activation Tool
 </a>
 
-
 <br/>
 
-🌐 **Portfolio:** [zohaib.is-a.dev](https://zohaib.is-a.dev) (or your preferred portfolio link)
+🌐 **Live Portfolio:** [zohaib.is-a.dev](https://zohaib.is-a.dev)
 
 </div>
-
 
 <div align="center">
 
@@ -93,19 +86,15 @@ I'm **Zohaib Ali Dayo**, a passionate Information Technology professional specia
 
 <br/><br/>
 
-
-
 > **Code meets creativity.** Great digital products are not only about writing code.
 
 <div align="center">
   <img src="/journey.svg" width="100%" alt="Understand, Design, Build, Test and improve, Ship"/>
 </div>
 
-
 <div align="center">
   <img src="/skills.svg" width="85%" alt="Animated skill bars"/>
 </div>
-
 
 <div align="center">
 
